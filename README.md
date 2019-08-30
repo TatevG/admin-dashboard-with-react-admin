@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/tatevikvardanyan2/tatevikvardanyan/_apis/build/status/TatevG.admin-dashboard-with-react-admin?branchName=master)](https://dev.azure.com/tatevikvardanyan2/tatevikvardanyan/_build/latest?definitionId=6&branchName=master)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
